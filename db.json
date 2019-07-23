@@ -1,0 +1,29 @@
+[{
+        text: 'My Documents',
+        type : 'folder',
+        items: [
+            {
+                text: 'Kendo UI Project',
+                subitems: [
+                    { text: 'about.html' },
+                    { text: 'index.html' },
+                    { text: 'logo.png' }
+                ]
+            },
+            {
+                text: 'New Web Site',
+                subitems: [
+                    { text: 'mockup.jpg' },
+                    { text: 'Research.pdf' }
+                ]
+            },
+            {
+                text: 'Reports',
+                subitems: [
+                    { text: 'February.pdf' },
+                    { text: 'March.pdf' },
+                    { text: 'April.pdf' }
+                ]
+            }
+        ]
+    }]
